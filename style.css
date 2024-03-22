@@ -35,7 +35,7 @@ nav {
 }
 
 nav.active {
-  width: 350px;
+  width: 450px;
 }
 
 nav ul {
@@ -105,4 +105,6 @@ nav.active .icon .line1 {
 nav.active .icon .line2 {
   transform: rotate(765deg) translateY(-5.5px);
 }
-Footer
+
+
+
